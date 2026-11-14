@@ -1,0 +1,1 @@
+{"dependencies":{"hono":"^4.13.18"},"description":"Base Block Tip — x402-paid Base block endpoint (Hono on Vercel serverless)","license":"ISC","name":"vapi-block-tip-vercel","private":true,"type":"module","version":"1.0.0"}
